@@ -1,0 +1,15 @@
+{
+  "name": "dadoware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matheus Oliveira Costa <matheusoliveiracos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha test.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
